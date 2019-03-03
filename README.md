@@ -4,6 +4,7 @@
 ## Getting started
 
 `$ npm install react-native-new-land-scanner --save`
+`$ npm install git+https://github.com/nerjok/react-native-newland_scanner.git`
 
 ### Mostly automatic installation
 
